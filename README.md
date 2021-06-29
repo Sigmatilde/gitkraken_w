@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # GITKRAKEN WORKSHOP
 a hand-on workshop to demostrate version control 
+=======
+# gitkraken_workshop
+>>>>>>> main
 
 ## Overview
 Our code will demonstrate the different code snippets that have been used for programming
